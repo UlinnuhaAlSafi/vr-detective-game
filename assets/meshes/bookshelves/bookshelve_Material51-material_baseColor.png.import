@@ -1,0 +1,39 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bbea2yqebbb41"
+path.s3tc="res://.godot/imported/bookshelve_Material51-material_baseColor.png-2154e1f1cf42092f23726b5c8f573e05.s3tc.ctex"
+path.etc2="res://.godot/imported/bookshelve_Material51-material_baseColor.png-2154e1f1cf42092f23726b5c8f573e05.etc2.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "2adaf9bf2d79607b899b91910d25f417"
+}
+
+[deps]
+
+source_file="res://assets/meshes/bookshelves/bookshelve_Material51-material_baseColor.png"
+dest_files=["res://.godot/imported/bookshelve_Material51-material_baseColor.png-2154e1f1cf42092f23726b5c8f573e05.s3tc.ctex", "res://.godot/imported/bookshelve_Material51-material_baseColor.png-2154e1f1cf42092f23726b5c8f573e05.etc2.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

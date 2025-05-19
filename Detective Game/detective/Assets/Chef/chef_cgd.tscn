@@ -2,10 +2,10 @@
 
 [ext_resource type="PackedScene" uid="uid://x0s8wlgffclc" path="res://Detective Game/detective/Assets/Chef/Chef_CGD.glb" id="1_7d0xq"]
 [ext_resource type="Script" uid="uid://cq06misyc06sk" path="res://addons/godot-xr-tools/objects/viewport_2d_in_3d.gd" id="2_v8gw7"]
-[ext_resource type="Script" uid="uid://b680pgrb4wqiv" path="res://Detective Game/detective/Scripts/Interactable3D.gd" id="2_xakcc"]
-[ext_resource type="PackedScene" uid="uid://ix5hheaueuqp" path="res://Detective Game/detective/Prefab/DialogUI.tscn" id="3_xakcc"]
+[ext_resource type="Script" path="res://Detective Game/detective/Scripts/Interactable3D.gd" id="2_xakcc"]
+[ext_resource type="PackedScene" uid="uid://bliuu2egoujnd" path="res://Detective Game/detective/Prefab/DialogUI.tscn" id="3_xakcc"]
 [ext_resource type="Script" uid="uid://bbjheis6wpoh4" path="res://addons/godot-xr-tools/objects/viewport_2d_in_3d_body.gd" id="4_bxc66"]
-[ext_resource type="Script" uid="uid://cednya0pgsg8u" path="res://Detective Game/detective/Scripts/DetectCollisionWithItem.gd" id="5_078ay"]
+[ext_resource type="Script" path="res://Detective Game/detective/Scripts/DetectCollisionWithItem.gd" id="5_078ay"]
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_ffdnj"]
 size = Vector3(5, 2, 5)
